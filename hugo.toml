@@ -1,0 +1,66 @@
+baseurl = "/"
+title = "Broderic Duncan"
+copyright = "Copyright &copy; 2025 😎"
+canonifyurls = true
+languageCode = "en-US"
+pagination.pagerSize = 5
+theme = "hugo-dusk"
+
+
+disqusShortname = ""
+
+[author]
+  name = ""
+
+SectionPagesMenu = "main"
+
+# Configure syntax highlight
+[markup]
+  [markup.highlight]
+    style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
+
+[[menu.main]]
+  name = "Home"
+  weight = -140
+  identifier = "home"
+  url = "/index.html"
+
+[[menu.main]]
+  name = "About"
+  weight = -130
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Archive"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Topics"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+  
+[[menu.main]]
+  name = "RSS"
+  weight = -100
+  identifier = "rss"
+  url = "/post/index.xml"
+
+[params.meta]
+  keywords = "blog, tech, computers, cybesecurity, hack, hacking, broderic"
+  description = "Just another blog floating around in the sea of the WWW"
+
+[params]
+  github = "have-no-clue-what-im-doing"
+  linkedin = "dontputnamehere"
+  email = "brodericjduncan@gmail.com"
+  youtube = "yeet"
+  theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
+  utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
+  utterancesTheme="github-dark" # Default: github-dark
+  utterancesIssueTerm="pathname" # Default: pathname
+  custom_css = ["css/custom.css"]
+  googleAnalyticsID = "G-C2V85PG0ZN"
