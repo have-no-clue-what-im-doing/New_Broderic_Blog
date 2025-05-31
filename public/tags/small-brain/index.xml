@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small Brain on Broderic Duncan</title>
+    <link>/tags/small-brain/</link>
+    <description>Recent content in Small Brain on Broderic Duncan</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2025 😎</copyright>
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/small-brain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Brain Moment</title>
+      <link>/post/small-brain/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/post/small-brain/</guid>
+      <description>&lt;p&gt;So I recently had fiber installed for our house. I have symmetric speeds now of 400 down and 400 up! Everything is great, except for one little mistake I made. With this new fiber installation, the ISP needed to install an ONT, and originally I was hoping they could possibly give me some kind of rack mountable ONT, but yeah, they don&amp;rsquo;t give that to residential customers. So the plan was to mount it to the wall behind the network rack. And when they asked me where exactly I wanted it mounted, I didn&amp;rsquo;t really think much of it, and said to put it right next to the power outlet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

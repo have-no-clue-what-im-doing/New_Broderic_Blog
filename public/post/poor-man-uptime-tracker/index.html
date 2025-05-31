@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="" />
+
+<meta name="description" content="Just another blog floating around in the sea of the WWW" />
+
+<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic" />
+
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.147.6">
+
+<link rel="canonical" href="/post/poor-man-uptime-tracker/">
+
+
+  <meta property="og:url" content="/post/poor-man-uptime-tracker/">
+  <meta property="og:site_name" content="Broderic Duncan">
+  <meta property="og:title" content="Poor Man&#39;s Monitoring Tool">
+  <meta property="og:description" content="AAJDSLKFJDSLKFJDSLKFJDSLKFDJSLKSFSJ
+A couple days ago I was mindlessly browsing the web when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so. I then decided to think more rationally and realized it was probably some maintenance upgrade since the outage started almost exactly at 1am. I was curious how long this outage would last and decided to create the greatest uptime script known to mankind:">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2024-05-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-05-04T00:00:00+00:00">
+    <meta property="article:tag" content="Uptime">
+    <meta property="article:tag" content="Monitoring">
+    <meta property="article:tag" content="Cmd">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Poor Man&#39;s Monitoring Tool">
+  <meta name="twitter:description" content="AAJDSLKFJDSLKFJDSLKFJDSLKFDJSLKSFSJ
+A couple days ago I was mindlessly browsing the web when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so. I then decided to think more rationally and realized it was probably some maintenance upgrade since the outage started almost exactly at 1am. I was curious how long this outage would last and decided to create the greatest uptime script known to mankind:">
+
+
+
+
+  <meta itemprop="name" content="Poor Man&#39;s Monitoring Tool">
+  <meta itemprop="description" content="AAJDSLKFJDSLKFJDSLKFJDSLKFDJSLKSFSJ
+A couple days ago I was mindlessly browsing the web when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so. I then decided to think more rationally and realized it was probably some maintenance upgrade since the outage started almost exactly at 1am. I was curious how long this outage would last and decided to create the greatest uptime script known to mankind:">
+  <meta itemprop="datePublished" content="2024-05-04T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-05-04T00:00:00+00:00">
+  <meta itemprop="wordCount" content="214">
+  <meta itemprop="keywords" content="Uptime,Monitoring,Cmd">
+
+<link rel="stylesheet" href="/css/layout.css" />
+
+
+<link rel="stylesheet" href="/css/default-dark.css" />
+
+
+
+
+<title>
+
+
+     Poor Man&#39;s Monitoring Tool 
+
+</title>
+
+</head>
+
+
+<body>
+<div class="main">
+<header>
+
+<div class="header-bar">
+
+  <nav>
+    <div class="siteTitle">
+      <a href="/">Broderic Duncan</a>
+    </div> 
+
+    
+    
+    <a class="nav-item" href="/index.html"><div class="nav-item-title">Home</div></a>
+    
+    <a class="nav-item" href="/about"><div class="nav-item-title">About</div></a>
+    
+    <a class="nav-item" href="/post/"><div class="nav-item-title">Archive</div></a>
+    
+    <a class="nav-item" href="/tags/"><div class="nav-item-title">Topics</div></a>
+    
+    <a class="nav-item" href="/post/index.xml"><div class="nav-item-title">RSS</div></a>
+    
+
+  </nav>
+
+</div>
+
+</header>
+
+
+<article class="post">
+    <h1 class="title"> Poor Man&#39;s Monitoring Tool </h1>
+    <div class="content"> <p>AAJDSLKFJDSLKFJDSLKFJDSLKFDJSLKSFSJ</p>
+<p>A couple days ago I was mindlessly browsing the web when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so. I then decided to think more rationally and realized it was probably some maintenance upgrade since the outage started almost exactly at 1am. I was curious how long this outage would last and decided to create the greatest uptime script known to mankind:</p>
+<pre tabindex="0"><code>@echo off
+
+:internet
+ping 8.8.8.8 -n 1 | find &#34;Reply&#34; &gt;&gt; gimmeINTERNET!.txt
+echo %time% &gt;&gt; gimmeINTERNET!.txt
+goto internet
+</code></pre><p>Forget Uptime Kemu, this batch script is clearly better and much more sophisticated.</p>
+<p>The next morning I woke up to this master piece:</p>
+<p><img src="/poor_man_uptime/uptime.png" alt="Finally getting replies back at 7:35am"></p>
+<p>Through my genius and ingenuity I was able to figure out that the network went back online at 7:35am. After doing some heavy calculations for a couple hours, I figured out that the maintenance took roughly 6 hours and 30 minutes. All that maintenance and my internet speed is still shit, pathetic.</p>
+ </div>
+    <footer class="post-footer">
+
+  <div class="post-footer-data">
+            
+
+  <div class="tags">
+  
+    <div class="tag">
+      <a href="/tags/uptime">#uptime</a>
+    </div>
+  
+    <div class="tag">
+      <a href="/tags/monitoring">#monitoring</a>
+    </div>
+  
+    <div class="tag">
+      <a href="/tags/cmd">#cmd</a>
+    </div>
+  
+  </div>
+
+
+    
+    <hr>
+    
+    <div class="date"> Published: 2024-05-04</div>
+    <div class="updated"> Updated:   2024-05-04</div>
+  </div>
+</footer>
+
+
+  
+  
+
+<script src="https://utteranc.es/client.js"
+        repo="REPO_NAME"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+</article>
+
+  <footer>
+
+  <div class="social-links-footer">
+
+  
+  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">Email</div></a>
+  
+
+  
+  <a href="https://github.com/have-no-clue-what-im-doing" target="_blank"><div class="social-link">GitHub</div></a>
+  
+
+  
+
+  
+
+  
+  <a href="https://www.linkedin.com/in/dontputnamehere" target="_blank"><div class="social-link">LinkedIn</div></a>
+  
+
+  
+
+  <div class="social-link">
+  
+  </div>
+
+</div>
+
+
+  <div class="copyright"> Copyright &copy; 2025 😎 </div>
+
+  <div class="poweredby">
+    Powered by <a href="https://gohugo.io/">Hugo</a>.
+  </div>
+
+  </footer>
+
+</div> 
+
+</body>
+</html>
+

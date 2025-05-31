@@ -252,3 +252,7 @@ th { background: var(--main-bg-color); }
 .related-content .title {
   font-weight: bold;
 }
+
+.main {
+  max-width: 55em !important; 
+}
