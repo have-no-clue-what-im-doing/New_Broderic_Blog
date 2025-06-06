@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poweredge on Broderic Duncan</title>
-    <link>/tags/poweredge/</link>
+    <link>//localhost:1313/tags/poweredge/</link>
     <description>Recent content in Poweredge on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/poweredge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/poweredge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing a Network Rack in My House</title>
-      <link>/post/new-network-rack/</link>
+      <link>//localhost:1313/post/new-network-rack/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>/post/new-network-rack/</guid>
-      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/new-network-rack/</guid>
+      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;//localhost:1313/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

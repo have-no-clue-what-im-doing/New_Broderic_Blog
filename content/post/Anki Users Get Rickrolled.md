@@ -14,6 +14,14 @@ date = "2025-06-06"
 
 +++
 
+- [Anki](#anki)
+- [Anki Knockoffs](#anki-knockoffs)
+- [AnkiPro Outage](#ankipro-outage)
+- [Rickroll](#rickroll)
+- [Trademarks and Open Source](#trademarks-and-open-source)
+- [Finally](#finally)
+- [AnkiPro No More](#ankipro-no-more)
+
 ## Anki
 
 Just recently Anki went through what's probably the most drama it'll ever experience. If you've never heard of [Anki](https://apps.ankiweb.net/), it's a free,  open source flashcard application that uses ["active recall testing" and "spaced repetition"](https://docs.ankiweb.net/background.html), which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word "Anki" comes from the pronunication of the Japanese word for "momorize". Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and [at least 10M+ users on the Android app alone](https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5). This has led to some developers taking absolute advantage of its name and branding. 
@@ -34,7 +42,7 @@ The one large exception to this is for iOS. For the official Anki iOS app, the p
 
 In the long run, this is actually cheaper than paying a stupid subscription every month, but for most users, the 25 dollar price tag is too much. And so more users end up downloading one of the knockoffs.  
 
-The one knockapp app I want to discuss particularly is (or was)[^2] named AnkiPro. AnkiPro uses similar algorithms as Anki that allow for the same kind of spaced repetition flashcard studying. The app claims to have features such as: 
+The one knockapp app I want to discuss in particular is (or was)[^2] named AnkiPro. AnkiPro uses similar algorithms as Anki that allow for the same kind of spaced repetition flashcard studying. The app claims to have features such as: 
 
 * User friendly design
 * Algorithm presets
@@ -107,7 +115,7 @@ Obviously for the majority of open source projects, a trademark would be a huge 
 
 If you want to read more regarding trademarks and open source, Google has a great [article](https://google.github.io/opencasebook/trademarks/#introduction) going over it.
 
-# Finally
+## Finally
 
 Funny thing is that during this whole ordeal, Anki had already [filed a trademark](https://tsdr.uspto.gov/documentviewer?caseId=sn79340880&docId=PB120250430014031&linkId=2#docIndex=2&page=1). Issue date of April 30, 2025. This is something that should have been done years ago.
 

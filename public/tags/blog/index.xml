@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Broderic Duncan</title>
-    <link>/tags/blog/</link>
+    <link>//localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anki Users Get Rickrolled</title>
-      <link>/post/anki-users-get-rickrolled/</link>
+      <link>//localhost:1313/post/anki-users-get-rickrolled/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/post/anki-users-get-rickrolled/</guid>
-      <description>&lt;h2 id=&#34;anki&#34;&gt;Anki&lt;/h2&gt;&#xA;&lt;p&gt;Just recently Anki went through what&amp;rsquo;s probably the most drama it&amp;rsquo;ll ever experience. If you&amp;rsquo;ve never heard of &lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Anki&lt;/a&gt;, it&amp;rsquo;s a free,  open source flashcard application that uses &lt;a href=&#34;https://docs.ankiweb.net/background.html&#34;&gt;&amp;ldquo;active recall testing&amp;rdquo; and &amp;ldquo;spaced repetition&amp;rdquo;&lt;/a&gt;, which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word &amp;ldquo;Anki&amp;rdquo; comes from the pronunication of the Japanese word for &amp;ldquo;momorize&amp;rdquo;. Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and &lt;a href=&#34;https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5&#34;&gt;at least 10M+ users on the Android app alone&lt;/a&gt;. This has led to some developers taking absolute advantage of its name and branding.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/anki-users-get-rickrolled/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#anki&#34;&gt;Anki&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#anki-knockoffs&#34;&gt;Anki Knockoffs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ankipro-outage&#34;&gt;AnkiPro Outage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#rickroll&#34;&gt;Rickroll&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#trademarks-and-open-source&#34;&gt;Trademarks and Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#finally&#34;&gt;Finally&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ankipro-no-more&#34;&gt;AnkiPro No More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;anki&#34;&gt;Anki&lt;/h2&gt;&#xA;&lt;p&gt;Just recently Anki went through what&amp;rsquo;s probably the most drama it&amp;rsquo;ll ever experience. If you&amp;rsquo;ve never heard of &lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Anki&lt;/a&gt;, it&amp;rsquo;s a free,  open source flashcard application that uses &lt;a href=&#34;https://docs.ankiweb.net/background.html&#34;&gt;&amp;ldquo;active recall testing&amp;rdquo; and &amp;ldquo;spaced repetition&amp;rdquo;&lt;/a&gt;, which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word &amp;ldquo;Anki&amp;rdquo; comes from the pronunication of the Japanese word for &amp;ldquo;momorize&amp;rdquo;. Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and &lt;a href=&#34;https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5&#34;&gt;at least 10M+ users on the Android app alone&lt;/a&gt;. This has led to some developers taking absolute advantage of its name and branding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New name, new me</title>
-      <link>/post/new-name-new-me/</link>
+      <link>//localhost:1313/post/new-name-new-me/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>/post/new-name-new-me/</guid>
+      <guid>//localhost:1313/post/new-name-new-me/</guid>
       <description>&lt;p&gt;Quick announcement here. I&amp;rsquo;ve changed the domain to this blog to: &lt;a href=&#34;https://www.broderic.blog&#34;&gt;broderic.blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The old domain I was originally using I purchased off of google domains. Of course &lt;a href=&#34;https://support.google.com/domains/answer/13689670?hl=en&#34;&gt;Squarespace had to ruin that.&lt;/a&gt; I then went to Namecheap and purchased broderic.blog for only 5 dollars and sixteen cents for one year. Domain dealers are lame though, they&amp;rsquo;ll give you a great deal when purchasing a new domain, but of course once it comes to renewal they will screw you over by jacking up the renewal price. Hopefully my renewal is no more than like $40.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughts on Hugo</title>
-      <link>/post/thoughts-on-hugo/</link>
+      <link>//localhost:1313/post/thoughts-on-hugo/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/thoughts-on-hugo/</guid>
+      <guid>//localhost:1313/post/thoughts-on-hugo/</guid>
       <description>&lt;p&gt;I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world&amp;rsquo;s fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specifically wanted to create my site as a blog and hugo seemed perfect for that. If you look at the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;themes&lt;/a&gt; for hugo it&amp;rsquo;s mostly just blogs.&lt;/p&gt;</description>
     </item>
   </channel>

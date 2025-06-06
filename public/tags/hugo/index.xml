@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Broderic Duncan</title>
-    <link>/tags/hugo/</link>
+    <link>//localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Hugo</title>
-      <link>/post/thoughts-on-hugo/</link>
+      <link>//localhost:1313/post/thoughts-on-hugo/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/thoughts-on-hugo/</guid>
+      <guid>//localhost:1313/post/thoughts-on-hugo/</guid>
       <description>&lt;p&gt;I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world&amp;rsquo;s fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specifically wanted to create my site as a blog and hugo seemed perfect for that. If you look at the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;themes&lt;/a&gt; for hugo it&amp;rsquo;s mostly just blogs.&lt;/p&gt;</description>
     </item>
   </channel>

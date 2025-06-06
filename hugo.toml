@@ -69,7 +69,3 @@ SectionPagesMenu = "main"
   [services.googleAnalytics]
     id = "G-C2V85PG0ZN"
 
-[privacy]
-  [privacy.googleAnalytics]
-    disable = false                 # GA is enabled
-    respectDoNotTrack = true       # Honor DNT if set

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 <meta charset="utf-8" />
 <meta name="author" content="" />
 
@@ -12,10 +12,10 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="generator" content="Hugo 0.147.6">
 
-<link rel="canonical" href="/post/new-network-rack/">
+<link rel="canonical" href="//localhost:1313/post/new-network-rack/">
 
 
-  <meta property="og:url" content="/post/new-network-rack/">
+  <meta property="og:url" content="//localhost:1313/post/new-network-rack/">
   <meta property="og:site_name" content="Broderic Duncan">
   <meta property="og:title" content="Installing a Network Rack in My House">
   <meta property="og:description" content="After about a month of work I’ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the post
@@ -55,17 +55,17 @@ Here is a quick before and after:
   <meta itemprop="wordCount" content="1265">
   <meta itemprop="keywords" content="Networking,Unifi,Ubiquiti,Pfsense,Proxmox,Vm,Poweredge,Cyberpower">
 
-<link rel="stylesheet" href="/css/layout.css" />
+<link rel="stylesheet" href="//localhost:1313/css/layout.css" />
 
 
-<link rel="stylesheet" href="/css/default-dark.css" />
+<link rel="stylesheet" href="//localhost:1313/css/default-dark.css" />
 
 
 
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2V85PG0ZN"></script>
       <script>
         var doNotTrack = false;
-        if ( true ) {
+        if ( false ) {
           var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
           var doNotTrack = (dnt == "1" || dnt == "yes");
         }
@@ -96,20 +96,20 @@ Here is a quick before and after:
 
   <nav>
     <div class="siteTitle">
-      <a href="/">Broderic Duncan</a>
+      <a href="//localhost:1313/">Broderic Duncan</a>
     </div> 
 
     
     
-    <a class="nav-item" href="/index.html"><div class="nav-item-title">Home</div></a>
+    <a class="nav-item" href="//localhost:1313/index.html"><div class="nav-item-title">Home</div></a>
     
-    <a class="nav-item" href="/about"><div class="nav-item-title">About</div></a>
+    <a class="nav-item" href="//localhost:1313/about"><div class="nav-item-title">About</div></a>
     
-    <a class="nav-item" href="/post/"><div class="nav-item-title">Archive</div></a>
+    <a class="nav-item" href="//localhost:1313/post/"><div class="nav-item-title">Archive</div></a>
     
-    <a class="nav-item" href="/tags/"><div class="nav-item-title">Topics</div></a>
+    <a class="nav-item" href="//localhost:1313/tags/"><div class="nav-item-title">Topics</div></a>
     
-    <a class="nav-item" href="/post/index.xml"><div class="nav-item-title">RSS</div></a>
+    <a class="nav-item" href="//localhost:1313/post/index.xml"><div class="nav-item-title">RSS</div></a>
     
 
   </nav>
@@ -124,50 +124,50 @@ Here is a quick before and after:
 
     
 
-    <div class="content"><p>After about a month of work I&rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the <a href="/post/networking-a-house">post</a></p>
+    <div class="content"><p>After about a month of work I&rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the <a href="//localhost:1313/post/networking-a-house">post</a></p>
 <p>Here is a quick before and after:</p>
-<p><img src="/new_network_rack/old_network.jpg" alt="Attaching Ethernet to patch panel."></p>
+<p><img src="//localhost:1313/new_network_rack/old_network.jpg" alt="Attaching Ethernet to patch panel."></p>
 <p>(Router and modem are upstairs. I have cable that runs directly to the switch here.)</p>
-<p><img src="/new_network_rack/network_rack.jpg" alt="New network rack"></p>
+<p><img src="//localhost:1313/new_network_rack/network_rack.jpg" alt="New network rack"></p>
 <p>(I&rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&rsquo;t feel like tracing coax)</p>
 <p>There are some obvious issues with the old network. First, there was no UPS, just a tiny surge protector. And second, the patch panel I used sucked. I originally made the mistake of getting a monolithic patch panel, that was not modular. That meant that all the ethernet ports were directly built into the panel. Which meant I couldn&rsquo;t move cables around on the panel without re-terminating them each time. And if you look back at my old network post, you can see it was a PIA to install. Just having individual keystones for each cable run makes way more sense and made cable installation way easier later on.</p>
 <p>To get to this point took a very long time, and I&rsquo;m going to start from the beginning.
 The first thing I had to do was clear out the server room to make room for me to assemble the actual rack:</p>
-<p><img src="/new_network_rack/clean_up_time.jpg" alt="clean up time!"></p>
+<p><img src="//localhost:1313/new_network_rack/clean_up_time.jpg" alt="clean up time!"></p>
 <p>The whole room was a huge mess. After a couple hours of sweeping the floors, it was finally cleared for the rack assembly.</p>
-<p><img src="/new_network_rack/clean.jpg" alt="clean"></p>
+<p><img src="//localhost:1313/new_network_rack/clean.jpg" alt="clean"></p>
 <p>From there I started to assemble the 36U rack I&rsquo;d gotten from RackSolutions</p>
-<p><img src="/new_network_rack/rack_assemble.jpg" alt="rack"></p>
+<p><img src="//localhost:1313/new_network_rack/rack_assemble.jpg" alt="rack"></p>
 <p>Once I had the rack assembled and upright, I then had to take out the old network equipment:</p>
-<p><img src="/new_network_rack/rack_upright.jpg" alt="rack upright"></p>
-<p><img src="/new_network_rack/old_rack.jpg" alt="old rack setup"></p>
-<p><img src="/new_network_rack/old_rack_down.jpg" alt="old rack down"></p>
+<p><img src="//localhost:1313/new_network_rack/rack_upright.jpg" alt="rack upright"></p>
+<p><img src="//localhost:1313/new_network_rack/old_rack.jpg" alt="old rack setup"></p>
+<p><img src="//localhost:1313/new_network_rack/old_rack_down.jpg" alt="old rack down"></p>
 <p>I then moved the new rack in place:</p>
-<p><img src="/new_network_rack/rack_move.jpg" alt="moving new rack"></p>
+<p><img src="//localhost:1313/new_network_rack/rack_move.jpg" alt="moving new rack"></p>
 <p>After moving the rack, I then went on to terminate, trace, and label each cable run. This involved converting some faceplates that had RJ-11&rsquo;s to RJ-45&rsquo;s. Once that was done I could then start placing the keystones into the patch panel, one cable at a time.</p>
-<p><img src="/new_network_rack/keystone1.jpg" alt="inserting keystones into rack"></p>
+<p><img src="//localhost:1313/new_network_rack/keystone1.jpg" alt="inserting keystones into rack"></p>
 <p>I then added a Unifi 48 port switch in between the patch panels and connected patch cables for each port</p>
-<p><img src="/new_network_rack/keystone2.jpg" alt="patch panels connected to switch"></p>
+<p><img src="//localhost:1313/new_network_rack/keystone2.jpg" alt="patch panels connected to switch"></p>
 <p>Yeah, cable management isn&rsquo;t the best, but you know, it works! That&rsquo;s what matters! Those keystones at the bottom of the patch panels are cables that weren&rsquo;t long enough, so I extended them with those.</p>
 <p>I then slapped on the UPS at the bottom of the rack:</p>
-<p><img src="/new_network_rack/ups.jpg" alt="UPS"></p>
+<p><img src="//localhost:1313/new_network_rack/ups.jpg" alt="UPS"></p>
 <p>Next was the netgate firewall running pfsense:</p>
-<p><img src="/new_network_rack/pfsense.jpg" alt="firewall running pfsense"></p>
+<p><img src="//localhost:1313/new_network_rack/pfsense.jpg" alt="firewall running pfsense"></p>
 <p>Finally, the PowerEdge R250 was installed:</p>
-<p><img src="/new_network_rack/poweredge.jpg" alt="POWEREDGE"></p>
+<p><img src="//localhost:1313/new_network_rack/poweredge.jpg" alt="POWEREDGE"></p>
 <p>I then went back upstairs and mounted 3 more AP&rsquo;s around the house for better coverage:</p>
-<p><img src="/new_network_rack/ap.jpg" alt="AP&rsquo;s mounted"></p>
+<p><img src="//localhost:1313/new_network_rack/ap.jpg" alt="AP&rsquo;s mounted"></p>
 <p>After adding 3 more AP&rsquo;s the AP count went to a total of 7:</p>
-<p><img src="/new_network_rack/ap_total.jpg" alt="ap total count 7"></p>
+<p><img src="//localhost:1313/new_network_rack/ap_total.jpg" alt="ap total count 7"></p>
 <p>I do plan on adding two more AP&rsquo;s later on. One in the garage, and then one for the basement as well.
 With how dense the AP coverage was, there was a bit of overlapping between AP&rsquo;s. To solve this I put the 2.4 radios on their lowest transmit setting. And for 5 GHz I put them at medium transmit power so they wouldn&rsquo;t drown out to the 2.4. I then made their channel widths as wide as possible. This allowed for much better roaming, and devices no longer stayed attached to one AP for as long. Basically, for the most part, devices should be using 5 GHz at all times since the coverage is that good. I&rsquo;m only keeping the 2.4 GHz on just because there are still a couple devices left in this house with 2.4.</p>
 <p>After adding and adopting all the AP&rsquo;s I started the set up of the new Netgate router, a 2100 base model. My old edge router ran on a network class C, while this new router, I decided to go with a class A, just for more IP&rsquo;s and since I decided I am going to be created plenty of VLANs. I also plan on giving out netgate routers to some family so I can create tunnels to this network and they can all have access to my NAS later on. Now, I don&rsquo;t have any NAS at the moment, but probably by next year, when I have the budget, it&rsquo;ll be installed.</p>
 <p>The first thing I did when setting up pfsense was to create all my interfaces:</p>
-<p><img src="/new_network_rack/pfsense_interface.jpg" alt="pfsense interfaces list"></p>
+<p><img src="//localhost:1313/new_network_rack/pfsense_interface.jpg" alt="pfsense interfaces list"></p>
 <p>I created a guest interface for our guest house, one for IoT devices, and one for VM&rsquo;s. I then assigned VLANs for each interface. So the main, untagged LAN is 10.10.10.0/24, guest is 10.10.11.0/24 and so on. Basically the 3rd octet is for VLANs, while I planned on having the 2nd octet for each location. So when I add another location it&rsquo;ll be 10.20.10.0/24 instead. That&rsquo;s pretty much how my network scheme is going to be. Just using a /24 since that is plenty for each home.</p>
 <p>Of course I had to add some firewall rules to get each of these interfaces working. Basically just allowing any traffic over the interface. Setting up each network was extremely easy. I just add a new network, add DHCP service to it, then assign it an interface, and add firewall rules. Took like 30 minutes tops. I am a huge fan of pfsense coming from someone who&rsquo;s been using an EdgeRouter the past couple of years. The UI is 1000x better and it&rsquo;s just so much easier to navigate around.</p>
 <p>After getting the new network subnets done, I went on to setup my Dell PowerEdge. I got a slightly used R250 poweredge. I slapped in 64 GB of RAM and 2TB of storage. Setting up the poweredge was actually super easy. I boot it up and it walked me through assigning IP&rsquo;s for both the iDRAC interface and lan interface. I set up iDRAC in like 2 minutes. Then did some firmware updates which took about an hour. Then configured a RAID 10 for the 4 500GB drives I had installed. The whole set up took like around 1 and 30 minutes. Once I had access to iDRAC from the web browser, I installed proxmox super quick.</p>
-<p><img src="/new_network_rack/proxmox.jpg" alt="proxmox installed!"></p>
+<p><img src="//localhost:1313/new_network_rack/proxmox.jpg" alt="proxmox installed!"></p>
 <p>I&rsquo;ve kind of just been screwing around on proxmox and just testing stuff out. I first created a minecraft server on Ubuntu Server. Mostly because I wanted to see how well this thing performed and if I could get my brother to connect to it all the way from Japan. Was great getting it up and running and see my brother connect to it from across the pacific. Played for like 20 minutes and haven&rsquo;t touched it since. I also added the Unifi Controller on there as well. It was originally running on a Raspberry Pi. That Pi is now free for something else!</p>
 <p>I plan on creating more templates so I can crank out VM&rsquo;s super easy. I plan on setting one up for most versions of windows, Kali, Ubuntu, Mint, Parrot. Also want a template for pfsense as well. With proxmox it&rsquo;s going to allow me to do some serious labbing. I really want to set up some little environments where I have a tiny group of machines running and connected to a DC with AD. I also plan on running a bunch of containers on here as well.</p>
 <p>One last thing I am really exited about is using this for CTF&rsquo;s. I can create a Kali vm for each CTF I play in. And performance will be way better. Before, I was running my VM&rsquo;s directly on my laptop, with a type 2 hypervisor like vmware or virtualbox. But now with proxmox being a type 1 hypervisor, performance is going to be way better.</p>
@@ -181,35 +181,35 @@ With how dense the AP coverage was, there was a bit of overlapping between AP&rs
   <div class="tags">
   
     <div class="tag">
-      <a href="/tags/networking">#networking</a>
+      <a href="//localhost:1313/tags/networking">#networking</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/unifi">#unifi</a>
+      <a href="//localhost:1313/tags/unifi">#unifi</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/ubiquiti">#ubiquiti</a>
+      <a href="//localhost:1313/tags/ubiquiti">#ubiquiti</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/pfsense">#pfsense</a>
+      <a href="//localhost:1313/tags/pfsense">#pfsense</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/proxmox">#proxmox</a>
+      <a href="//localhost:1313/tags/proxmox">#proxmox</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/vm">#vm</a>
+      <a href="//localhost:1313/tags/vm">#vm</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/poweredge">#poweredge</a>
+      <a href="//localhost:1313/tags/poweredge">#poweredge</a>
     </div>
   
     <div class="tag">
-      <a href="/tags/cyberpower">#cyberpower</a>
+      <a href="//localhost:1313/tags/cyberpower">#cyberpower</a>
     </div>
   
   </div>
