@@ -7,7 +7,7 @@
 
 <meta name="description" content="Just another blog floating around in the sea of the WWW" />
 
-<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic" />
+<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic, ihateprinters" />
 
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="generator" content="Hugo 0.147.6">
@@ -62,6 +62,21 @@ Here is a quick before and after:
 
 
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2V85PG0ZN"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-C2V85PG0ZN');
+        }
+      </script>
+
 
 <title>
 
@@ -105,8 +120,11 @@ Here is a quick before and after:
 
 
 <article class="post">
-    <h1 class="title"> Installing a Network Rack in My House </h1>
-    <div class="content"> <p>After about a month of work I&rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the <a href="/post/networking-a-house">post</a></p>
+    <h1 class="title">Installing a Network Rack in My House</h1>
+
+    
+
+    <div class="content"><p>After about a month of work I&rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the <a href="/post/networking-a-house">post</a></p>
 <p>Here is a quick before and after:</p>
 <p><img src="/new_network_rack/old_network.jpg" alt="Attaching Ethernet to patch panel."></p>
 <p>(Router and modem are upstairs. I have cable that runs directly to the switch here.)</p>
@@ -153,7 +171,8 @@ With how dense the AP coverage was, there was a bit of overlapping between AP&rs
 <p>I&rsquo;ve kind of just been screwing around on proxmox and just testing stuff out. I first created a minecraft server on Ubuntu Server. Mostly because I wanted to see how well this thing performed and if I could get my brother to connect to it all the way from Japan. Was great getting it up and running and see my brother connect to it from across the pacific. Played for like 20 minutes and haven&rsquo;t touched it since. I also added the Unifi Controller on there as well. It was originally running on a Raspberry Pi. That Pi is now free for something else!</p>
 <p>I plan on creating more templates so I can crank out VM&rsquo;s super easy. I plan on setting one up for most versions of windows, Kali, Ubuntu, Mint, Parrot. Also want a template for pfsense as well. With proxmox it&rsquo;s going to allow me to do some serious labbing. I really want to set up some little environments where I have a tiny group of machines running and connected to a DC with AD. I also plan on running a bunch of containers on here as well.</p>
 <p>One last thing I am really exited about is using this for CTF&rsquo;s. I can create a Kali vm for each CTF I play in. And performance will be way better. Before, I was running my VM&rsquo;s directly on my laptop, with a type 2 hypervisor like vmware or virtualbox. But now with proxmox being a type 1 hypervisor, performance is going to be way better.</p>
- </div>
+</div>
+
     <footer class="post-footer">
 
   <div class="post-footer-data">
@@ -225,7 +244,7 @@ With how dense the AP coverage was, there was a bit of overlapping between AP&rs
   <div class="social-links-footer">
 
   
-  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">Email</div></a>
+  <a href="mailto:broderic@brz86.com"><div class="social-link">Email</div></a>
   
 
   

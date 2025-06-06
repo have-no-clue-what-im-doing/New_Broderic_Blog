@@ -50,13 +50,13 @@ SectionPagesMenu = "main"
   url = "/post/index.xml"
 
 [params.meta]
-  keywords = "blog, tech, computers, cybesecurity, hack, hacking, broderic"
+  keywords = "blog, tech, computers, cybesecurity, hack, hacking, broderic, ihateprinters"
   description = "Just another blog floating around in the sea of the WWW"
 
 [params]
   github = "have-no-clue-what-im-doing"
   linkedin = "dontputnamehere"
-  email = "brodericjduncan@gmail.com"
+  email = "broderic@brz86.com"
   youtube = "yeet"
   theme_colors = "default-dark" # uses color css file under static/css/default-dark.css
   utterancesRepo="REPO_NAME" # Utterances is enabled when this param is set
@@ -64,3 +64,12 @@ SectionPagesMenu = "main"
   utterancesIssueTerm="pathname" # Default: pathname
   custom_css = ["css/custom.css"]
   googleAnalyticsID = "G-C2V85PG0ZN"
+
+[services]
+  [services.googleAnalytics]
+    id = "G-C2V85PG0ZN"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false                 # GA is enabled
+    respectDoNotTrack = true       # Honor DNT if set

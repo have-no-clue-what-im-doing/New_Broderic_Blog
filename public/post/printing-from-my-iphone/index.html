@@ -7,7 +7,7 @@
 
 <meta name="description" content="Just another blog floating around in the sea of the WWW" />
 
-<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic" />
+<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic, ihateprinters" />
 
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="generator" content="Hugo 0.147.6">
@@ -53,6 +53,21 @@ When I first tried printing from my iPhone to this Dell printer some 5 years ago
 
 
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2V85PG0ZN"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-C2V85PG0ZN');
+        }
+      </script>
+
 
 <title>
 
@@ -96,8 +111,11 @@ When I first tried printing from my iPhone to this Dell printer some 5 years ago
 
 
 <article class="post">
-    <h1 class="title"> Printing From My iPhone </h1>
-    <div class="content"> <p>For the longest time I&rsquo;ve never been able to print from my iPhone to the Dell printer in my parent&rsquo;s house. I&rsquo;m not exactly sure when we got the printer but I know it&rsquo;s at least been like 7+ years. The printer in question is the <a href="https://www.dell.com/support/home/en-us/product-support/product/dell-2155cn-cdn/overview">Dell 2155cn Color MFP</a>. According to the copyright on the <a href="https://dl.dell.com/manuals/all-products/esuprt_printers_main/esuprt_printers/dell-2155cn-cdn_user's%20guide_en-us.pdf?dgc=SM&amp;cid=626927&amp;lid=spr7164772008&amp;refid=sm_APPLE_BUSINESS_CHAT_spr7164772008&amp;linkId=170749771">user guide</a>, the printer was released in 2010. That makes the printer a decade+ old.</p>
+    <h1 class="title">Printing From My iPhone</h1>
+
+    
+
+    <div class="content"><p>For the longest time I&rsquo;ve never been able to print from my iPhone to the Dell printer in my parent&rsquo;s house. I&rsquo;m not exactly sure when we got the printer but I know it&rsquo;s at least been like 7+ years. The printer in question is the <a href="https://www.dell.com/support/home/en-us/product-support/product/dell-2155cn-cdn/overview">Dell 2155cn Color MFP</a>. According to the copyright on the <a href="https://dl.dell.com/manuals/all-products/esuprt_printers_main/esuprt_printers/dell-2155cn-cdn_user's%20guide_en-us.pdf?dgc=SM&amp;cid=626927&amp;lid=spr7164772008&amp;refid=sm_APPLE_BUSINESS_CHAT_spr7164772008&amp;linkId=170749771">user guide</a>, the printer was released in 2010. That makes the printer a decade+ old.</p>
 <p>When I first tried printing from my iPhone to this Dell printer some 5 years ago, iOS was unable to find the printer on the network. At the time, I assumed it was because the printer was so old, and that it was probably using some ancient protocol that only worked on Windows. Back then I&rsquo;d just give up and print from my computer instead. Why waste time figuring out how to print from my phone when it takes like 20 seconds to just walk over to my desktop and print from there instead? Fast forward to now and I&rsquo;ve deemed that unacceptable. I was going to get to the bottom of this and figure out why the hell iOS couldn&rsquo;t find my printer.</p>
 <p>When I first attempted to print from my phone I used an app called Printer. Which Printer app? It doesn&rsquo;t matter. After installing multiple of these generic printing apps, the method they all use to add a printer is with something called <a href="https://support.apple.com/en-us/HT201311">AirPrint</a>. When searching through the printer&rsquo;s user manual I could find no mention of AirPrint. So I can only assume that this printer is not AirPrint compatible. (AirPrint was released in late 2010, so it was technically possible.)</p>
 <p>After deleting all the useless printing apps I went back on the app store and searched for the Dell Printer app. Only, when I submitted my search, I was met with just the same old generic printing apps. No Dell printing app to be seen. That seemed a little odd to me. What kind of business is going to produce printers but not make an app to encourage us to buy their overpriced toner? I decided to do a couple google searches and finally figured out the answer: <a href="https://www.theregister.com/2016/09/19/dell_quit_printer_business/">Dell discontinued producing printers</a> and thus decided not only to stop updating their <a href="https://www.dell.com/support/kbdoc/en-us/000135610/how-to-install-and-configure-the-mobile-print-app-for-dell-on-ios-devices">printing app</a>, but to wipe it completely off the App Store. Now, if you go to <a href="https://www.dell.com/en-us/work/shop/printers-ink-toner/ac/4014">Dell&rsquo;s website</a> you&rsquo;ll still see printers listed for sale, but you&rsquo;ll quickly notice that none of them are Dell brand. Of course Dell isn&rsquo;t stupid enough to discontinue selling toner. I am curious how long they&rsquo;ll be selling their toner for. I imagine eventually most home offices/businesses are going to upgrade and replace their lowly Dell printers. I give it around 10 to 15 years.</p>
@@ -110,7 +128,8 @@ When I first tried printing from my iPhone to this Dell printer some 5 years ago
 <p>So does this app only work because it uses Bonjour and the other apps use AirPrint? No, because AirPrint uses Bonjour. Bonjour is built into AirPrint. <a href="https://apple.stackexchange.com/questions/402633/what-is-the-difference-between-airprint-bonjour-and-rendezvous">Here</a> is a great explaintion on Stack Exchange. AirPrint is the actual protocol that does the printing, while Bonjour simply allows for the discovery of the printer. What I believe is going on here is that AirPrint could easily find my printer. AirPrint won&rsquo;t show it because it&rsquo;s not AirPrint compatible, even though it could show me it and just allow me to print with a different protocol.</p>
 <p>In summary, ePrint Free finds my printer with Bonjour and then uses a <a href="https://en.wikipedia.org/wiki/List_of_printing_protocols">protocol</a> like LPD, IPP, or AppSocket to actually print the document. Hopefully Apple doesn&rsquo;t remove this app for being so outdated. Not that I really print often with from my iPhone. Sometimes I just want to print a picture directly from my phone and not have to email it to myself to print it off from my desktop. (I don&rsquo;t like the idea of automatically uploading all my images to the cloud.)</p>
 <p>Long live ePrint!</p>
- </div>
+</div>
+
     <footer class="post-footer">
 
   <div class="post-footer-data">
@@ -162,7 +181,7 @@ When I first tried printing from my iPhone to this Dell printer some 5 years ago
   <div class="social-links-footer">
 
   
-  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">Email</div></a>
+  <a href="mailto:broderic@brz86.com"><div class="social-link">Email</div></a>
   
 
   

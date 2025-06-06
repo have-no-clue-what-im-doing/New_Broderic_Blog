@@ -7,7 +7,7 @@
 
 <meta name="description" content="Just another blog floating around in the sea of the WWW" />
 
-<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic" />
+<meta name="keywords" content="blog, tech, computers, cybesecurity, hack, hacking, broderic, ihateprinters" />
 
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="generator" content="Hugo 0.147.6">
@@ -50,6 +50,21 @@
 <link rel="stylesheet" href="/css/default-dark.css" />
 
 
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-C2V85PG0ZN"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-C2V85PG0ZN');
+        }
+      </script>
 
 
 <title>
@@ -94,13 +109,17 @@
 
 
 <article class="post">
-    <h1 class="title"> Small Brain Moment </h1>
-    <div class="content"> <p>So I recently had fiber installed for our house. I have symmetric speeds now of 400 down and 400 up! Everything is great, except for one little mistake I made. With this new fiber installation, the ISP needed to install an ONT, and originally I was hoping they could possibly give me some kind of rack mountable ONT, but yeah, they don&rsquo;t give that to residential customers. So the plan was to mount it to the wall behind the network rack. And when they asked me where exactly I wanted it mounted, I didn&rsquo;t really think much of it, and said to put it right next to the power outlet.</p>
+    <h1 class="title">Small Brain Moment</h1>
+
+    
+
+    <div class="content"><p>So I recently had fiber installed for our house. I have symmetric speeds now of 400 down and 400 up! Everything is great, except for one little mistake I made. With this new fiber installation, the ISP needed to install an ONT, and originally I was hoping they could possibly give me some kind of rack mountable ONT, but yeah, they don&rsquo;t give that to residential customers. So the plan was to mount it to the wall behind the network rack. And when they asked me where exactly I wanted it mounted, I didn&rsquo;t really think much of it, and said to put it right next to the power outlet.</p>
 <p><img src="/small_brain/small_brain2.jpeg" alt="ONT not connected to the PDU"></p>
 <p>You see what the issue is though? It shouldn&rsquo;t be directly plugged into the power outlet, it should plugged into my PDU, which is connected to my UPS. This set up is straight up stupid.</p>
 <p><img src="/small_brain/small_brain1.jpeg" alt="Small Brain"></p>
 <p>And yeah I can&rsquo;t really just move the power cord over and plug it into the PDU. They literally gave me the smallest power cord in existence. So I&rsquo;m going to have to remount this thing closer to where the PDU is. Really wish I could&rsquo;ve just gotten a rack mounted ONT :(</p>
- </div>
+</div>
+
     <footer class="post-footer">
 
   <div class="post-footer-data">
@@ -156,7 +175,7 @@
   <div class="social-links-footer">
 
   
-  <a href="mailto:brodericjduncan@gmail.com"><div class="social-link">Email</div></a>
+  <a href="mailto:broderic@brz86.com"><div class="social-link">Email</div></a>
   
 
   

@@ -32,7 +32,8 @@
 <link rel="stylesheet" href="/css/default-dark.css" />
 {{ end }}
 
-{{ partial "google_analytics.html" . }}
+{{ template "_internal/google_analytics.html" . }}
+
 
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}

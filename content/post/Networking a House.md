@@ -2,7 +2,7 @@
 title = "Networking My Parents' House"
 description = ""
 tags = [
-    "networking", "unifi", "ubiquiti",
+    "networking", "unifi", "ubiquiti"
 ]
 date = "2022-06-01"
 
