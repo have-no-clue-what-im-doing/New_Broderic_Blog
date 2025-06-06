@@ -16,7 +16,7 @@ date = "2025-06-06"
 
 ## Anki
 
-Just recently Anki went through what's probably the most drama it'll ever experience. If you've never heard of [Anki](https://apps.ankiweb.net/), it's a free,  open source flashcard application that uses ["active recall testing" and "spaced repetition"](https://docs.ankiweb.net/background.html), which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word "Anki" comes from the pronunication of the Japanese word for "momorize". Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and [at least 10M+ users on the Android app alone](https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5). This has led to some developers taking absolute advantage of its name and branding. 
+Just recently Anki went through what's probably the most drama it'll ever experience. If you've never heard of [Anki](https://apps.ankiweb.net/), it's a free,  open source flashcard application that uses ["active recall testing" and "spaced repetition"](https://docs.ankiweb.net/background.html), which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word "Anki" comes from the pronunciation of the Japanese word for "memorize". Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and [at least 10M+ users on the Android app alone](https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5). This has led to some developers taking absolute advantage of its name and branding. 
 
 ## Anki Knockoffs
 
