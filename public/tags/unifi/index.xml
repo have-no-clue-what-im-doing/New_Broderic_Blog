@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unifi on Broderic Duncan</title>
-    <link>//localhost:1313/tags/unifi/</link>
+    <link>/tags/unifi/</link>
     <description>Recent content in Unifi on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/unifi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/unifi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing a Network Rack in My House</title>
-      <link>//localhost:1313/post/new-network-rack/</link>
+      <link>/post/new-network-rack/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/new-network-rack/</guid>
-      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;//localhost:1313/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
+      <guid>/post/new-network-rack/</guid>
+      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Networking My Parents&#39; House</title>
-      <link>//localhost:1313/post/networking-a-house/</link>
+      <link>/post/networking-a-house/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/networking-a-house/</guid>
-      <description>&lt;p&gt;So before I began this project, it was clear that the network closet was a mess:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/networking/one.jpg&#34; alt=&#34;Network closet is a huge mess.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP&amp;rsquo;s around the house I traced them down to here and connected them all to a switch. The reason you don&amp;rsquo;t see a router or modem is because those are in a totally different room. For whatever reason the demarc doesn&amp;rsquo;t lead to the network closet. I&amp;rsquo;m sure there&amp;rsquo;s a way I can trace it to the network closet, but then I&amp;rsquo;d have to invest in a multimeter, which I don&amp;rsquo;t want to do just to trace coaxial.&lt;/p&gt;</description>
+      <guid>/post/networking-a-house/</guid>
+      <description>&lt;p&gt;So before I began this project, it was clear that the network closet was a mess:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/networking/one.jpg&#34; alt=&#34;Network closet is a huge mess.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP&amp;rsquo;s around the house I traced them down to here and connected them all to a switch. The reason you don&amp;rsquo;t see a router or modem is because those are in a totally different room. For whatever reason the demarc doesn&amp;rsquo;t lead to the network closet. I&amp;rsquo;m sure there&amp;rsquo;s a way I can trace it to the network closet, but then I&amp;rsquo;d have to invest in a multimeter, which I don&amp;rsquo;t want to do just to trace coaxial.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

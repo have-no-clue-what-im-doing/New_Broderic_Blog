@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Broderic Duncan</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anki Users Get Rickrolled</title>
-      <link>//localhost:1313/post/anki-users-get-rickrolled/</link>
+      <link>/post/anki-users-get-rickrolled/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/anki-users-get-rickrolled/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#anki&#34;&gt;Anki&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#anki-knockoffs&#34;&gt;Anki Knockoffs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ankipro-outage&#34;&gt;AnkiPro Outage&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#rickroll&#34;&gt;Rickroll&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#trademarks-and-open-source&#34;&gt;Trademarks and Open Source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#finally&#34;&gt;Finally&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#ankipro-no-more&#34;&gt;AnkiPro No More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;anki&#34;&gt;Anki&lt;/h2&gt;&#xA;&lt;p&gt;Just recently Anki went through what&amp;rsquo;s probably the most drama it&amp;rsquo;ll ever experience. If you&amp;rsquo;ve never heard of &lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Anki&lt;/a&gt;, it&amp;rsquo;s a free,  open source flashcard application that uses &lt;a href=&#34;https://docs.ankiweb.net/background.html&#34;&gt;&amp;ldquo;active recall testing&amp;rdquo; and &amp;ldquo;spaced repetition&amp;rdquo;&lt;/a&gt;, which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word &amp;ldquo;Anki&amp;rdquo; comes from the pronunication of the Japanese word for &amp;ldquo;momorize&amp;rdquo;. Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and &lt;a href=&#34;https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5&#34;&gt;at least 10M+ users on the Android app alone&lt;/a&gt;. This has led to some developers taking absolute advantage of its name and branding.&lt;/p&gt;</description>
+      <guid>/post/anki-users-get-rickrolled/</guid>
+      <description>&lt;h2 id=&#34;anki&#34;&gt;Anki&lt;/h2&gt;&#xA;&lt;p&gt;Just recently Anki went through what&amp;rsquo;s probably the most drama it&amp;rsquo;ll ever experience. If you&amp;rsquo;ve never heard of &lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Anki&lt;/a&gt;, it&amp;rsquo;s a free,  open source flashcard application that uses &lt;a href=&#34;https://docs.ankiweb.net/background.html&#34;&gt;&amp;ldquo;active recall testing&amp;rdquo; and &amp;ldquo;spaced repetition&amp;rdquo;&lt;/a&gt;, which allows for more efficient study and memorization. Anki was originally developed by Damien Elmes, who created Anki to help him learn Japanese. The word &amp;ldquo;Anki&amp;rdquo; comes from the pronunication of the Japanese word for &amp;ldquo;momorize&amp;rdquo;. Anki is nearly 20 years old and over the decades has become extremely popular. With over 21K stars on Github and &lt;a href=&#34;https://forums.ankiweb.net/t/anki-downloads-statistics/28788/5&#34;&gt;at least 10M+ users on the Android app alone&lt;/a&gt;. This has led to some developers taking absolute advantage of its name and branding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Small Brain Moment</title>
-      <link>//localhost:1313/post/small-brain/</link>
+      <link>/post/small-brain/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/small-brain/</guid>
+      <guid>/post/small-brain/</guid>
       <description>&lt;p&gt;So I recently had fiber installed for our house. I have symmetric speeds now of 400 down and 400 up! Everything is great, except for one little mistake I made. With this new fiber installation, the ISP needed to install an ONT, and originally I was hoping they could possibly give me some kind of rack mountable ONT, but yeah, they don&amp;rsquo;t give that to residential customers. So the plan was to mount it to the wall behind the network rack. And when they asked me where exactly I wanted it mounted, I didn&amp;rsquo;t really think much of it, and said to put it right next to the power outlet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Passing The Security&#43;</title>
-      <link>//localhost:1313/post/passing-the-security&#43;/</link>
+      <link>/post/passing-the-security&#43;/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/passing-the-security&#43;/</guid>
+      <guid>/post/passing-the-security&#43;/</guid>
       <description>&lt;p&gt;So I just recently passed the glorified vocab test known as the Security+. Just wanted to give me thoughts about. I studied for around a week and half. (Planned on 2 weeks, but got sick for around 4 days.) I do have a degree in cybersecurity, as well as having already taken and passed the Network+ 3 years prior. So that definitely helped.&lt;/p&gt;&#xA;&lt;p&gt;I had planned on taking the Security+ much earlier, but once I got a fulltime job whilst still taking classes fulltime, I held off on it. I did however purchase Darril Gibson&amp;rsquo;s Security+ SY0-601 study guide before making this decision, so it ended up collecting dust for 2 years. Which is why I decided to go with the 601 exam instead of studying the newer 701 exam. I didn&amp;rsquo;t feel like blowing money on another study guide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installing a Network Rack in My House</title>
-      <link>//localhost:1313/post/new-network-rack/</link>
+      <link>/post/new-network-rack/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/new-network-rack/</guid>
-      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;//localhost:1313/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
+      <guid>/post/new-network-rack/</guid>
+      <description>&lt;p&gt;After about a month of work I&amp;rsquo;ve finally finished installing my new network, all contained in an actual network rack. If you want to see what my network was like before this, here is the &lt;a href=&#34;/post/networking-a-house&#34;&gt;post&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is a quick before and after:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/old_network.jpg&#34; alt=&#34;Attaching Ethernet to patch panel.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(Router and modem are upstairs. I have cable that runs directly to the switch here.)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/new_network_rack/network_rack.jpg&#34; alt=&#34;New network rack&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;(I&amp;rsquo;ve moved the router down here, while the modem stays upstairs, since that is where the source is. Don&amp;rsquo;t feel like tracing coax)&lt;/p&gt;</description>
     </item>
     <item>
       <title>New name, new me</title>
-      <link>//localhost:1313/post/new-name-new-me/</link>
+      <link>/post/new-name-new-me/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/new-name-new-me/</guid>
+      <guid>/post/new-name-new-me/</guid>
       <description>&lt;p&gt;Quick announcement here. I&amp;rsquo;ve changed the domain to this blog to: &lt;a href=&#34;https://www.broderic.blog&#34;&gt;broderic.blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The old domain I was originally using I purchased off of google domains. Of course &lt;a href=&#34;https://support.google.com/domains/answer/13689670?hl=en&#34;&gt;Squarespace had to ruin that.&lt;/a&gt; I then went to Namecheap and purchased broderic.blog for only 5 dollars and sixteen cents for one year. Domain dealers are lame though, they&amp;rsquo;ll give you a great deal when purchasing a new domain, but of course once it comes to renewal they will screw you over by jacking up the renewal price. Hopefully my renewal is no more than like $40.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poor Man&#39;s Monitoring Tool</title>
-      <link>//localhost:1313/post/poor-man-uptime-tracker/</link>
+      <link>/post/poor-man-uptime-tracker/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/poor-man-uptime-tracker/</guid>
+      <guid>/post/poor-man-uptime-tracker/</guid>
       <description>&lt;p&gt;AAJDSLKFJDSLKFJDSLKFJDSLKFDJSLKSFSJ&lt;/p&gt;&#xA;&lt;p&gt;A couple days ago I was mindlessly browsing the web when suddenly my internet went out. With it being 1am, it was a clear sign for me to go to bed, but I ignored it and just hopped on my phone for a bit. 30 minutes later I noticed the internet was still out and I was kinda pissed. (As if I was doing anything actually important.) Usually these outages only last about 10-15 minutes or so. I then decided to think more rationally and realized it was probably some maintenance upgrade since the outage started almost exactly at 1am. I was curious how long this outage would last and decided to create the greatest uptime script known to mankind:&lt;/p&gt;</description>
     </item>
     <item>
       <title>When we had both landlines and cellphones</title>
-      <link>//localhost:1313/post/when-we-had-both-landlines-and-cellphones-copy/</link>
+      <link>/post/when-we-had-both-landlines-and-cellphones-copy/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/when-we-had-both-landlines-and-cellphones-copy/</guid>
+      <guid>/post/when-we-had-both-landlines-and-cellphones-copy/</guid>
       <description>&lt;p&gt;Something I was just thinking about recently was our history of phones and how we used to all have a &amp;ldquo;home&amp;rdquo; phone. You know, just a phone that sits at home all day. A landline. Just about every home in America had one. Then suddenly cellphones came along, they got cheaper and cheaper until everyone had a flip phone in their pocket. And then one day, we each decided that there was no point in paying for a landline when we all had cell phones. But for most people, there was this brief period of time where we went about our days with both a landline and a cell phone. I would say between the years of 2008 - 2014 is when the majority of people were actively using both types of phones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Printing From My iPhone</title>
-      <link>//localhost:1313/post/printing-from-my-iphone/</link>
+      <link>/post/printing-from-my-iphone/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/printing-from-my-iphone/</guid>
+      <guid>/post/printing-from-my-iphone/</guid>
       <description>&lt;p&gt;For the longest time I&amp;rsquo;ve never been able to print from my iPhone to the Dell printer in my parent&amp;rsquo;s house. I&amp;rsquo;m not exactly sure when we got the printer but I know it&amp;rsquo;s at least been like 7+ years. The printer in question is the &lt;a href=&#34;https://www.dell.com/support/home/en-us/product-support/product/dell-2155cn-cdn/overview&#34;&gt;Dell 2155cn Color MFP&lt;/a&gt;. According to the copyright on the &lt;a href=&#34;https://dl.dell.com/manuals/all-products/esuprt_printers_main/esuprt_printers/dell-2155cn-cdn_user&#39;s%20guide_en-us.pdf?dgc=SM&amp;amp;cid=626927&amp;amp;lid=spr7164772008&amp;amp;refid=sm_APPLE_BUSINESS_CHAT_spr7164772008&amp;amp;linkId=170749771&#34;&gt;user guide&lt;/a&gt;, the printer was released in 2010. That makes the printer a decade+ old.&lt;/p&gt;&#xA;&lt;p&gt;When I first tried printing from my iPhone to this Dell printer some 5 years ago, iOS was unable to find the printer on the network. At the time, I assumed it was because the printer was so old, and that it was probably using some ancient protocol that only worked on Windows. Back then I&amp;rsquo;d just give up and print from my computer instead. Why waste time figuring out how to print from my phone when it takes like 20 seconds to just walk over to my desktop and print from there instead? Fast forward to now and I&amp;rsquo;ve deemed that unacceptable. I was going to get to the bottom of this and figure out why the hell iOS couldn&amp;rsquo;t find my printer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Networking My Parents&#39; House</title>
-      <link>//localhost:1313/post/networking-a-house/</link>
+      <link>/post/networking-a-house/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/networking-a-house/</guid>
-      <description>&lt;p&gt;So before I began this project, it was clear that the network closet was a mess:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/networking/one.jpg&#34; alt=&#34;Network closet is a huge mess.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP&amp;rsquo;s around the house I traced them down to here and connected them all to a switch. The reason you don&amp;rsquo;t see a router or modem is because those are in a totally different room. For whatever reason the demarc doesn&amp;rsquo;t lead to the network closet. I&amp;rsquo;m sure there&amp;rsquo;s a way I can trace it to the network closet, but then I&amp;rsquo;d have to invest in a multimeter, which I don&amp;rsquo;t want to do just to trace coaxial.&lt;/p&gt;</description>
+      <guid>/post/networking-a-house/</guid>
+      <description>&lt;p&gt;So before I began this project, it was clear that the network closet was a mess:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/networking/one.jpg&#34; alt=&#34;Network closet is a huge mess.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wires and cables everywhere. The patch panel is unorganized. There&amp;rsquo;s so much crap everywhere you can&amp;rsquo;t even tell what&amp;rsquo;s going on. I do want to say that most of this was not me. This was the previous owner. When we moved into the house the previous owner had already wired every inch of it with cat5e and coaxial. When installing Unifi AP&amp;rsquo;s around the house I traced them down to here and connected them all to a switch. The reason you don&amp;rsquo;t see a router or modem is because those are in a totally different room. For whatever reason the demarc doesn&amp;rsquo;t lead to the network closet. I&amp;rsquo;m sure there&amp;rsquo;s a way I can trace it to the network closet, but then I&amp;rsquo;d have to invest in a multimeter, which I don&amp;rsquo;t want to do just to trace coaxial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughts on Hugo</title>
-      <link>//localhost:1313/post/thoughts-on-hugo/</link>
+      <link>/post/thoughts-on-hugo/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/thoughts-on-hugo/</guid>
+      <guid>/post/thoughts-on-hugo/</guid>
       <description>&lt;p&gt;I originally found out about Hugo after browsing Hacker News (YCombinator) and coming across a blog with a footer containing a link to Hugo&amp;rsquo;s site. You can scroll to the bottom to get an exact example of what I&amp;rsquo;m talking about. If you click on the link you can see Hugo advertised as: &amp;ldquo;One of the most popular open-source static site generators.&amp;rdquo; Beforehand, I had been thinking about creating my own site and was researching what exactly I wanted to build my site with. Reading this I immediately bookmarked it. Hugo also claims to be the world&amp;rsquo;s fastest framework for building websites. Have no clue how true that is. Although Hugo is freakin fast once everything is set up. I specifically wanted to create my site as a blog and hugo seemed perfect for that. If you look at the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;themes&lt;/a&gt; for hugo it&amp;rsquo;s mostly just blogs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Broderic and I have no clue how to use computers. I created this site to learn how.&lt;/p&gt;&#xA;&lt;p&gt;Recently graduated with degrees in IT and Cybersecurity. Currently do infosec in the fiance sector.&lt;/p&gt;</description>
     </item>
   </channel>

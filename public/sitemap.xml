@@ -2,132 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/anki/</loc>
+    <loc>/tags/anki/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/anki-users-get-rickrolled/</loc>
+    <loc>/post/anki-users-get-rickrolled/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/open-source/</loc>
+    <loc>/tags/open-source/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/rickroll/</loc>
+    <loc>/tags/rickroll/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/trademark/</loc>
+    <loc>/tags/trademark/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/networking/</loc>
+    <loc>/tags/networking/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ont/</loc>
+    <loc>/tags/ont/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pdu/</loc>
+    <loc>/tags/pdu/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/small-brain/</loc>
+    <loc>/tags/small-brain/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/small-brain/</loc>
+    <loc>/post/small-brain/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/certification/</loc>
+    <loc>/tags/certification/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/comptia/</loc>
+    <loc>/tags/comptia/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cybersecurity/</loc>
+    <loc>/tags/cybersecurity/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/passing-the-security&#43;/</loc>
+    <loc>/post/passing-the-security&#43;/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cyberpower/</loc>
+    <loc>/tags/cyberpower/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/new-network-rack/</loc>
+    <loc>/post/new-network-rack/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pfsense/</loc>
+    <loc>/tags/pfsense/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/poweredge/</loc>
+    <loc>/tags/poweredge/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/proxmox/</loc>
+    <loc>/tags/proxmox/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ubiquiti/</loc>
+    <loc>/tags/ubiquiti/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/unifi/</loc>
+    <loc>/tags/unifi/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/vm/</loc>
+    <loc>/tags/vm/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/new-name-new-me/</loc>
+    <loc>/post/new-name-new-me/</loc>
     <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cmd/</loc>
+    <loc>/tags/cmd/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/monitoring/</loc>
+    <loc>/tags/monitoring/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/poor-man-uptime-tracker/</loc>
+    <loc>/post/poor-man-uptime-tracker/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/uptime/</loc>
+    <loc>/tags/uptime/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/landline/</loc>
+    <loc>/tags/landline/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/phones/</loc>
+    <loc>/tags/phones/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/when-we-had-both-landlines-and-cellphones-copy/</loc>
+    <loc>/post/when-we-had-both-landlines-and-cellphones-copy/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/dell/</loc>
+    <loc>/tags/dell/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ios/</loc>
+    <loc>/tags/ios/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/printers/</loc>
+    <loc>/tags/printers/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/printing-from-my-iphone/</loc>
+    <loc>/post/printing-from-my-iphone/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/networking-a-house/</loc>
+    <loc>/post/networking-a-house/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/thoughts-on-hugo/</loc>
+    <loc>/post/thoughts-on-hugo/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

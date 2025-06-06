@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Broderic Duncan</title>
-    <link>//localhost:1313/tags/ios/</link>
+    <link>/tags/ios/</link>
     <description>Recent content in Ios on Broderic Duncan</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2025 😎</copyright>
     <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Printing From My iPhone</title>
-      <link>//localhost:1313/post/printing-from-my-iphone/</link>
+      <link>/post/printing-from-my-iphone/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/printing-from-my-iphone/</guid>
+      <guid>/post/printing-from-my-iphone/</guid>
       <description>&lt;p&gt;For the longest time I&amp;rsquo;ve never been able to print from my iPhone to the Dell printer in my parent&amp;rsquo;s house. I&amp;rsquo;m not exactly sure when we got the printer but I know it&amp;rsquo;s at least been like 7+ years. The printer in question is the &lt;a href=&#34;https://www.dell.com/support/home/en-us/product-support/product/dell-2155cn-cdn/overview&#34;&gt;Dell 2155cn Color MFP&lt;/a&gt;. According to the copyright on the &lt;a href=&#34;https://dl.dell.com/manuals/all-products/esuprt_printers_main/esuprt_printers/dell-2155cn-cdn_user&#39;s%20guide_en-us.pdf?dgc=SM&amp;amp;cid=626927&amp;amp;lid=spr7164772008&amp;amp;refid=sm_APPLE_BUSINESS_CHAT_spr7164772008&amp;amp;linkId=170749771&#34;&gt;user guide&lt;/a&gt;, the printer was released in 2010. That makes the printer a decade+ old.&lt;/p&gt;&#xA;&lt;p&gt;When I first tried printing from my iPhone to this Dell printer some 5 years ago, iOS was unable to find the printer on the network. At the time, I assumed it was because the printer was so old, and that it was probably using some ancient protocol that only worked on Windows. Back then I&amp;rsquo;d just give up and print from my computer instead. Why waste time figuring out how to print from my phone when it takes like 20 seconds to just walk over to my desktop and print from there instead? Fast forward to now and I&amp;rsquo;ve deemed that unacceptable. I was going to get to the bottom of this and figure out why the hell iOS couldn&amp;rsquo;t find my printer.&lt;/p&gt;</description>
     </item>
   </channel>
