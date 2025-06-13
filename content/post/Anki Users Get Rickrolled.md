@@ -109,11 +109,13 @@ If you want to read more regarding trademarks and open source, Google has a grea
 
 ## Finally
 
-Funny thing is that during this whole ordeal, Anki had already [filed a trademark](https://tsdr.uspto.gov/documentviewer?caseId=sn79340880&docId=PB120250430014031&linkId=2#docIndex=2&page=1). Issue date of April 30, 2025. This is something that should have been done years ago.
+The unfortunate reality for Anki is that they actually filed a trademark years ago, back in [March of 2022](hhttps://tsdr.uspto.gov/documentviewer?caseId=sn79340880&docId=PB120250430014031&linkId=2#docIndex=18&page=1). It just took 3 years for it to become active. The reason it took over 3 years for the trademark to get published is so incredibly stupid and unlucky. I will go into more detail regarding how and why in a future post.
 
-![Anki trademark filed](/anki_rickroll/trademark.png)
+The trademark was finally published May 6, 2025, with a 30 day window for any appeals. Which means today, June 6, 2025, the trademark can finally be enforced!
 
-The trademark was published May 6, 2025, with a 30 day window for any appeals. Which means today, June 6, 2025, the trademark can finally be enforced!
+![Anki trademark issue](/anki_rickroll/trademark.png)
+
+
 
 ## AnkiPro No More
 
